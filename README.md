@@ -1,5 +1,11 @@
 # IX-Ray
 
+<!-- markdownlint-disable MD033 -->
+<p align="center">
+  <img src="./logo.png" width="150" height="150" />
+</p>
+<!-- markdownlint-enable MD033 -->
+
 The starting point of *IX-Ray* project that is modernized *X-Ray* game engine
 
 ## Overview
